@@ -5,6 +5,6 @@ Real Name | Discord Name | Character Name   | Gender | Race       | Class
 Dalia     | Legacy       | Melody           | Female | Tiefling   | Bard
 Ryan      | Bees Knees   | Jonathan Varrick | Male   | Human      | Bloodhunter
 Emilee    | newpaint     | Maakani          | Female | Air Genasi | Cleric
-x         | Raz Cael     | Raz Cael         | ?      | Human      | Bard
+?         | Raz Cael     | Raz Cael         | ?      | Human      | Bard
 James     | wetpaint     | Brendenhoff      | Male   | Halfling   | Assassin
-x         | x            | Keliah           | Male   | Human      | Fighter
+?         | ?            | Keliah           | Male   | Human      | Fighter
