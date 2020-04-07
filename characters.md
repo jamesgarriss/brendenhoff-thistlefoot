@@ -1,10 +1,10 @@
 # Characters
 
-Real Name | Discord Name | Character Name | Character Type
---------- | ------------ | -------------- | --------------
-Dalia     | Legacy       | x              | Tiefling Bard
-Ryan      | Bees Knees   | Jonathan       | Human Bloodhunter
-Emilee    | newpaint     | Maakani        | Air Genasi Cleric
-x         | Raz Cael     | Raz Cael       | Human Bard
-James     | wetpaint     | Brendenhoff    | Halfling 
-x         | x            | Keliah         | Human Fighter
+Real Name | Discord Name | Character Name   | Gender | Race       | Class
+--------- | ------------ | ---------------- | ------ | ---------- | -----
+Dalia     | Legacy       | Melody           | Female | Tiefling   | Bard
+Ryan      | Bees Knees   | Jonathan Varrick | Male   | Human      | Bloodhunter
+Emilee    | newpaint     | Maakani          | Female | Air Genasi | Cleric
+x         | Raz Cael     | Raz Cael         | ?      | Human      | Bard
+James     | wetpaint     | Brendenhoff      | Male   | Halfling   | Assassin
+x         | x            | Keliah           | Male   | Human      | Fighter
