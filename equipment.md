@@ -20,6 +20,7 @@
 * Small kettle, coffee cup, coffee and sugar
 * Tinderbox
 * Waterskin
+* Dragonchess set, fine quality
 
 ## Beast
 
