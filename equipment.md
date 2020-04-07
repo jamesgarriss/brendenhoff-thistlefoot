@@ -5,6 +5,7 @@
 * 4 sets of fine clothes, including soft leather boots.
 * No armor
 * 1 signet ring 
+* Money pouch
 
 ## Weapons
 
