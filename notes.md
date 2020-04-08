@@ -5,3 +5,5 @@
 * James and Edmund - poor guards
 
 Jonathan knows something about poisons.
+
+Thistlefoot Manor - my home
