@@ -14,7 +14,7 @@ Special
 
 ## Features and Traits
 
-Thieves' Cant
+Mercantile Shorthand - You've learned to quickly write with shorthand writing, a collection of symbols and abbreviations of words and common phrases used to write as quickly as a person can speak.  The version of shorthand is one that is unique to merchants and primarily focuses on subjects of interest to merchants, such as inventories, buyers/sellers, prices, markets, trade routes, travel safety information, and contracts.
 
 Assassinate - You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit (double all damage dice).
 
