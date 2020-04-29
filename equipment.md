@@ -6,7 +6,7 @@
 * No armor
 * 1 signet ring 
 * Money pouch
-* Mysterious velvetish pouch from cave near lake in woods
+* Mysterious velvetish pouch - vial of some clear liquid that is preserving a bright green eye
 
 ## Weapons
 
