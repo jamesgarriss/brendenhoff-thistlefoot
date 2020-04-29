@@ -6,6 +6,7 @@
 * No armor
 * 1 signet ring 
 * Money pouch
+* Mysterious velvetish pouch from cave near lake in woods
 
 ## Weapons
 
