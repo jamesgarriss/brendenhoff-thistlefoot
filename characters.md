@@ -7,4 +7,4 @@ Ryan      | Bees Knees   | Jonathan Varrick        | Male   | Human      | Blood
 Emilee    | newpaint     | Dekee                   | Female | Aarakocra  | ???         | Darkvision
 Annalee   | Raz Cael     | Raz Cael                | Female | Human      | Bard        |
 James     | wetpaint     | Brendenhoff Thistlefoot | Male   | Halfling   | Assassin    |
-Keilah    | (Adam)       |  | | | | 
+Keilah    | (Adam)       | Bucky                   | Female | Human      |             | 
