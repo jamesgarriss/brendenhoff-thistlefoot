@@ -16,7 +16,7 @@
   * To hit: 1d20 + 6 (+ alt 1d20 if advantaged)
   * Damage: 1d4 + 4 (+ 1d4 if poisoned) (+ 2d6 if advantaged due to sneak attack)
   * Note: poison is a bonus action
-  * Short rest: heal for 1d8 or 2d8
+  * Short rest: heal for 1d8 or 2d8, each rest takes 1 hour
 
 ## Traveling Gear
 
