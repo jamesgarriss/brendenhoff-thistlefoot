@@ -14,7 +14,9 @@
 * 1 steel belt knife, standard tool for doing stuff
 * 3 sheaths, each containing 5 throwing spikes with builtin pouch for dipping into mild poison, meant to be strapped onto a wrist or ankle
   * To hit: 1d20 + 6 (+ alt 1d20 if advantaged)
-  * Damage: 1d4 + 4 (+ 1d4 if poisoned) (+ 2d6 if advantaged due to sneak attack)
+  * Damage: 1d4 + 4 (+ 1d4 if poisoned) (+ 2d6 if advantaged due to sneak attack) (+ double all dice if crit)
+    * Crit is nat 20
+    * Crit is surpise when assassinate
   * Note: poison is a bonus action
   * Short rest: heal for 1d8 or 2d8, each rest takes 1 hour
 
