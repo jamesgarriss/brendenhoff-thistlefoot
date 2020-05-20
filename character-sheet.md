@@ -25,3 +25,5 @@ Brave - You have advantage on saving throws against being frightened.
 Halfling Nimbleness - You can move through the space of any creature that is of a size larger than yours.
 
 Naturally Stealthy - You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+
+Alert - +5 to init, can't be surprised when conscious, and others don't gain advantage when attacking me b/c they are unseen.
