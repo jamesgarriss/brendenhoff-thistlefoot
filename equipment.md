@@ -19,7 +19,7 @@
     * Crit is nat 20
     * Crit is assassinate
   * Note: poison is a bonus action
-  * Short rest: heal for 1d8 or 2d8, each rest takes 1 hour
+  * Short rest: heal for 1d8 or 2d8 or 3d8 or 4d8, each rest takes 1 hour
 
 ## Traveling Gear
 
