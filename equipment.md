@@ -34,3 +34,4 @@
 
 * 1 small, docile pony (Lady Lamb, by name)
 * Light saddle with bags
+* Loot from village: 145g, 400s, some jewlery
