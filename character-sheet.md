@@ -1,5 +1,18 @@
 # Character Sheet
 
+## Characteristics
+
+Alignment: Neutral good
+Gender: Male
+Eyes: Brown
+Size: Small
+Height: 3'1"
+Faith: Appearance sake only
+Hair: Brown, well-groomed, no facial hair
+Skin: Tanned
+Age: 72
+Weight: 45 lb
+
 ## Actions
 
 Standard Actions - attack, cast a spell, dash, disengage, dodge, help, hide, ready, search, use an object, opportunity attack, grapple, shove, improvise, two-weapon fighting, interact with an object
