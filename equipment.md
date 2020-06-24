@@ -35,3 +35,7 @@
 * 1 small, docile pony (Lady Lamb, by name)
 * Light saddle with bags
 * 200 gold
+
+## Notes
+
+10 silver = 1 gold
