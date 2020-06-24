@@ -34,6 +34,7 @@
 
 * 1 small, docile pony (Lady Lamb, by name)
 * Light saddle with bags
+* 3 days of nice food and drink for the party
 * 200 gold
 
 ## Notes
