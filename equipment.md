@@ -34,4 +34,4 @@
 
 * 1 small, docile pony (Lady Lamb, by name)
 * Light saddle with bags
-* 272 gold
+* 200 gold
