@@ -17,7 +17,7 @@
     * Assassinate if I go before them in combat
   * Damage: 1d4 + 4 (+ 1d4 if poisoned) (+ 2d6 if advantaged due to sneak attack) (+ double all dice if crit)
     * Crit is nat 20
-    * Crit is assassinate
+    * Crit is assassinate (if I surprise)
   * Note: poison is a bonus action
   * Short rest: heal for 1d8 or 2d8 or 3d8 or 4d8, each rest takes 1 hour
 
