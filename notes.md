@@ -1,5 +1,9 @@
 # Notes
 
+## Harpies
+
+40g to kill the harpies
+
 ## Black Meadow Homestead
 
 14 houses, fields, 1.5 days from Caershire
